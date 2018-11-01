@@ -19,7 +19,7 @@ $ mvn archetype:generate \
 
 ### Build the benchmarks
 
-Run this Maven command in the root folder:
+Run this Maven command in the root folder of your project:
 
 ```shell
 mvn clean install
@@ -27,7 +27,7 @@ mvn clean install
 
 ### Run the benchmarks
 
-Run this Maven command in the root folder:
+Run this Maven command in the root folder of your project:
 
 ```shell
 java -jar target/benchmarks.jar
